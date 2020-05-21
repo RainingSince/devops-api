@@ -1,0 +1,7 @@
+db:
+ hosts: rainingsince.com:27017
+ dataBase: cicd
+port: 8088
+auth:
+ signingKey: 123456abc
+ ingorePath: /login
