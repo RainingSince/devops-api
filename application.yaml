@@ -1,5 +1,5 @@
 db:
- hosts: rainingsince.com:27017
+ hosts: mongodburl
  dataBase: cicd
 port: 8088
 auth:
